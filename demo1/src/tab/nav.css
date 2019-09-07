@@ -1,0 +1,22 @@
+*{margin:0;padding:0;}
+
+.nav-list{
+    margin:10px auto;
+    list-style:none;
+    display: flex;
+    justify-content:space-between;
+    width:300px;
+    height:70px;
+    align-items: center;
+    border:1px solid red;
+}
+.nav-list-li{
+    width:100px;
+    height:60px;
+     /* border:1px solid blue; */
+    text-align: center;
+    line-height: 60px;
+}
+.primary{
+    background:yellow;
+}

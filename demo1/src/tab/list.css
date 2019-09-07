@@ -1,0 +1,8 @@
+*{margin:0;padding:0;}
+
+.list{
+    margin:0 auto;
+    width:300px;
+    height:400px;
+    border:1px solid blue;
+}
